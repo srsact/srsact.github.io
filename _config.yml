@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "SRSACT | Smart Remote Sensing Analytics and Computing Team"
 description              : "<br>"
-repository               : "hengchaoli/hengchaoli.github.io"
+repository               : "srsact/srsact.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :  "hengchaoli"
+  github           :  "srsact"
   google_plus      :
   keybase          :
   instagram        :
