@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "SRSACT | Smart Remote Sensing Analytics and Computing Team"
+title                    : "SRSACT | Smart Remote Sensing Analysis and Computing Team"
 description              : "<br>"
 repository               : "srsact/srsact.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "<center>Smart Remote Sensing Analytics and Computing Team (智能遥感分析与计算团队)</center>"
+  name             : "<center>Smart Remote Sensing Analysis and Computing Team (智能遥感分析与计算团队)</center>"
   avatar           : "images/teamlogo.png"
-  bio              : "<center>Smart Remote Sensing Analytics and Computing Team in School of Information Science and Technology, Southwest Jiaotong University (西南交通大学信息科学与技术学院智能遥感分析与计算团队)<center>"
+  bio              : "<center>Smart Remote Sensing Analysis and Computing Team in School of Information Science and Technology, Southwest Jiaotong University (西南交通大学信息科学与技术学院智能遥感分析与计算团队)<center>"
   location         : "Chengdu, China (中国成都)"
   employer         :
   pubmed           : 
