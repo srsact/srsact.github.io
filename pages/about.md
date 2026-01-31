@@ -26,7 +26,7 @@ Our current research interests include intelligent remote sensing image processi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/hcl.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**李恒超**，团队负责人，西南交通大学信息科学与技术学院教授，博士生导师，IEEE高级会员。2001年、2004年分别于西南交通大学获得工学学士、硕士学位，2007年于中国科学院电子学研究所信号与信息处理专业获博士学位（师从吴一戎院士）；同年回西南交通大学信息与科学技术学院工作并晋升为副教授、硕士生导师，2012年晋升教授职称，并于2013年遴选为博士生导师。于2009年入选西南交通大学高层次教师队伍建设系列计划（竢实之星），2010年入选四川省杰出青年学科带头人培育计划，且同年获得詹天佑铁道科学技术奖专项基金奖，2011年入选教育部新世纪优秀人才计划，2017年获得唐立新优秀学者奖，2022年入选四川省学术和技术带头人。近年来，主持国家自然科学基金、博士后科学基金特别资助、国家/部级重点实验室开放基金、华为公司合作研发项目等10余项。在国内、外遥感领域顶级期刊IEEE Trans. on Geoscience and Remote Sensing、IEEE Journal of Selected Topics in Signal Processing、IEEE Geoscience and Remote Sensing Letters、 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing、Remote Sensing、Journal of Applied Remote Sensing等SCI/EI收录刊物上发表论文近70余篇，授权软件著作权1项和国家发明专利4项，并另外申请发明专利5项，参与出版专著1部。同时，还应邀担任IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing副编辑、Journal of Real-Time Image Processing与The Scientific World Journal客座编辑、IJCAI-2017会议程序委员会成员、IGARSS-2017会议分会场共同主席、 IEEE地球科学与遥感学会（GRSS）Chengdu Chapter副主席、国家自然科学基金和四川省科学技术奖函评专家、以及IEEE Trans. on Geoscience and Remote Sensing等近20个SCI期刊与旗舰会议IGARSS等的审稿人；此外，受国家留学基金委资助于2013年10月-2014年10月在美国University of Corolado - Boulder (UCB)作访问学者。
+**李恒超**，团队负责人，西南交通大学信息科学与技术学院教授，博士生导师，IEEE高级会员。
 
 </div>
 </div>
@@ -35,9 +35,7 @@ Our current research interests include intelligent remote sensing image processi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/wl.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Rui Wang** is currently an Associate Professor with the School of Information Science and Technology, Southwest Jiaotong University. Her research interests include remote sensing image processing, and pattern recognition. She has authored more than 10 research papers in high-impact international journals and conferences. She was a Visiting Scholar at Ghent University, Belgium from September 2015 to September 2016, and at the University of Glasgow, United Kingdom from August 2022 to August 2023. 
-<br>
-**王蕊**，西南交通大学信息科学与技术学院副教授，硕士生导师，主要研究方向包括遥感图像处理和模式识别。在国际高水平期刊和会议上发表学术论文10余篇。受国家留学基金委资助分别于2015年9月-2016年9月在比利时根特大学，2022年8月-2023年8月在英国格拉斯哥大学作访问学者。主持国家自然科学基金青年项目1项，参与国家自然科学基金面上项目2项。
+**王蕊**，西南交通大学信息科学与技术学院副教授，硕士生导师，主要研究方向包括遥感图像处理和模式识别。
 
 
 </div>
@@ -47,9 +45,7 @@ Our current research interests include intelligent remote sensing image processi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ybz.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Yu-Bang Zheng** is currently an assistant professor and master's student supervisor at the School of Information Science and Technology, Southwest Jiaotong University (SWJTU). His current research interests include high-dimensional signal and image processing, tensor modeling and computing, and machine learning. He has published over 20 academic papers in high-impact international journals and conferences, including ISPRS J. Photogramm. Remote Sens., IEEE Trans. Geosci. Remote Sens., J. Sci. Comput., Inverse Probl. Imaging, Inf. Sci., and AAAI. For more information, you can refer to his personal website at [https://yubangzheng.github.io](https://yubangzheng.github.io).
-<br><br>
-**郑玉棒**，西南交通大学信息科学与技术学院讲师，硕士生导师，主要研究方向包括高维信号与图像处理，张量建模与智能计算，机器学习及其数学理论等，在国际高水平期刊和会议上发表学术论文20余篇，包括ISPRS J. Photogramm. Remote Sens.、IEEE Trans. Geosci. Remote Sens.、J. Sci. Comput.、Inverse Probl. Imaging、Inf. Sci.和AAAI等，入选ESI高被引论文2篇，Google学术引用600余次。担任国际期刊Optik的Special Issues客座编辑，美国数学评论 (Mathematical Reviews) 评论员、IEEE TPAMI、IEEE TIP、IEEE TNNLS、IEEE TGRS、IEEE TCSVT、IEEE TNSE等10余家国际期刊审稿人。曾获2021川渝科技学术大会优秀论文一等奖 (四川省、重庆市每年各10篇) 、第二届中国图象图形学报研究生学术论坛报告二等奖、博士研究生国家奖学金、四川省优秀毕业生、电子科技大学2021年度“学术新秀”等荣誉和奖励。主持国家自然科学基金青年项目1项，参与国家自然科学基金面上项目3项、四川省应用基础研究重点项目1项。更多信息参考个人主页[https://yubangzheng.github.io](https://yubangzheng.github.io)。
+**郑玉棒**，西南交通大学信息科学与技术学院副教授，硕士生导师。
 
 </div>
 </div>
@@ -58,8 +54,7 @@ Our current research interests include intelligent remote sensing image processi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/jhy.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Jing-Hua Yang** is currently an assistant professor with the School of Information Science and Technology, Southwest Jiaotong University.  Her current research interests include data mining, image processing, tensor analysis, and federated learning. She has published over 10 academic papers in high-impact international journals and conferences, including IEEE Trans. Image Process., IEEE Trans. Neural Netw. Learn. Syst., Inf. Sci., and CIKM. For more information, you can refer to the personal website at [https://jinghua-yang.github.io](https://jinghua-yang.github.io).<br><br>
-**杨晶华**，西南交通大学信息科学与技术学院讲师，主要研究方向包括数据挖掘、图像处理、张量分析、联邦学习等，在国际高水平学术期刊/会议发表论文10余篇,包括 IEEE Trans. Image Process.、IEEE Trans. Neural Netw. Learn. Syst.、Inf. Sci.和CIKM等，入选ESI高被引论文3篇，Google学术引用300余次。曾获2020-2023年澳门科技大学参与学术研究奖学金，电子科技大学“优秀研究生”等称号。更多信息参考个人主页[https://jinghua-yang.github.io](https://jinghua-yang.github.io)。
+**杨晶华**，西南交通大学信息科学与技术学院副教授。
 
 </div>
 </div>
