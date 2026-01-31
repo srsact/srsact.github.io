@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "<center>Smart Remote Sensing Analysis and Computing Team (智能遥感分析与计算团队)</center>"
   avatar           : "images/teamlogo.png"
-  bio              : "<center>Smart Remote Sensing Analysis and Computing Team in School of Information Science and Technology, Southwest Jiaotong University (西南交通大学信息科学与技术学院智能遥感分析与计算团队)<center>"
-  location         : "Chengdu, China (中国成都)"
+  bio              : "<center>西南交通大学信息科学与技术学院智能遥感分析与计算团队<center>"
+  location         : "中国成都"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ"
